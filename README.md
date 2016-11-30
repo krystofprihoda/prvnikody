@@ -1,0 +1,2 @@
+# prvnikody
+Prvni programovaci pokusy.
